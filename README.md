@@ -1,5 +1,5 @@
 # Práctica 1: Web scraping
-## Descripción
+## Descripción:
 
 ## Miembros del Equipo:
 La actividad fue realizada por los siguientes miembros:
