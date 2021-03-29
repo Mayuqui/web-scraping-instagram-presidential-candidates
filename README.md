@@ -12,7 +12,7 @@ La actividad fue realizada por los siguientes miembros:
 
 ## Ficheros del código fuente:
 
-* **scraper_ins.py**: contiene el código del programa para generar el conjunto de datos propuesto desde el sitio web.
+* **scraper_ins.py**: contiene el código del programa para generar el conjunto de datos propuesto desde el sitio web [Instagram](https://www.instagram.com/?hl=es-la)
 
 ## Recursos:
 
