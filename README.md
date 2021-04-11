@@ -27,13 +27,10 @@ Este trabajo tiene licencia Creative Commons Attribution-NonCommmercial-ShareAli
 
 1. Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
 2. Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
-3. Zambrano, R. (2020) Hasta en TikTok los políticos buscarán los votos en Ecuador; COVID-19 cambia la estrategia electoral para elecciones de 2021. [Artículo](https://www.eluniverso.com/noticias/2020/05/24/nota/7849353/elecciones-presidenciales-2021-ecuador-redes-sociales/).
-4. Dugué, C. (2018) Predicting the number of likes on Instagram. [Artículo](https://towardsdatascience.com/predict-the-number-of-likes-on-instagram-a7ec5c020203)
-5. Barret P. (2020). Why Instagram could be a major site for disinformation in the 2020 US election.  [Artículo])https://www.theguardian.com/commentisfree/2019/sep/12/why-instagram-could-be-a-major-site-for-disinformation-in-the-2020-election) 
-
-Quentin Simms, ParseHub  (2016). Political Data Science: Analyzing Trump, Clinton, and Sanders Tweets and Sentiment 
-
-https://www.theguardian.com/commentisfree/2019/sep/12/why-instagram-could-be-a-major-site-for-disinformation-in-the-2020-election 
+3. Zambrano, R. (2020) Hasta en TikTok los políticos buscarán los votos en Ecuador; COVID-19 cambia la estrategia electoral para elecciones de 2021. [Ver Publicación](https://www.eluniverso.com/noticias/2020/05/24/nota/7849353/elecciones-presidenciales-2021-ecuador-redes-sociales/).
+4. Dugué, C. (2018) Predicting the number of likes on Instagram. [Ver Publicación](https://towardsdatascience.com/predict-the-number-of-likes-on-instagram-a7ec5c020203)
+5. Barret P. (2020). Why Instagram could be a major site for disinformation in the 2020 US election.  [Ver Publicación](https://www.theguardian.com/commentisfree/2019/sep/12/why-instagram-could-be-a-major-site-for-disinformation-in-the-2020-election) 
+6. Quentin Simms, ParseHub  (2016). Political Data Science: Analyzing Trump, Clinton, and Sanders Tweets and Sentiment [Ver Publicación] (https://www.theguardian.com/commentisfree/2019/sep/12/why-instagram-could-be-a-major-site-for-disinformation-in-the-2020-election)
 
 Carrillo A., Urueña J., Forero J., Caicedo L. (2015). Análisis del sentimiento político mediante la aplicación de herramientas de minería de datos a través del uso de redes sociales. 
 
