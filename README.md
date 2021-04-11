@@ -23,6 +23,8 @@ Este trabajo tiene licencia Creative Commons Attribution-NonCommmercial-ShareAli
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4679841.svg)](https://doi.org/10.5281/zenodo.4679841)
+
 ## Recursos:
 
 1. Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
